@@ -1,6 +1,9 @@
 #include "data_to_graph.h"
 
-
+/*
+brief
+Класс для отравки данных на график
+*/
 data_to_graph::data_to_graph(QObject *parent) : QObject(parent)
 {
 
