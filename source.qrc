@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/logfiles">
+        <file>log.txt</file>
+    </qresource>
+</RCC>

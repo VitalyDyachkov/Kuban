@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>123456.txt</file>
+        <file>log.txt</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>mserialport.cpp</file>
+        <file>mserialport.h</file>
+        <file>pars_msgcan.cpp</file>
+        <file>pars_msgcan.h</file>
+        <file>qcustomplot.cpp</file>
+        <file>qcustomplot.h</file>
+        <file>senslcd.cpp</file>
+        <file>senslcd.h</file>
+        <file>sensor.cpp</file>
+        <file>sensor.h</file>
+        <file>sensors.cpp</file>
+        <file>sensors.h</file>
+        <file>sounds/1.wav</file>
+        <file>sounds/2.wav</file>
+        <file>sounds/3.wav</file>
+        <file>sounds/4.wav</file>
+        <file>sounds/5.wav</file>
+        <file>sounds/6.wav</file>
+        <file>sounds/7.wav</file>
+        <file>sounds/8.wav</file>
+        <file>sounds/9.wav</file>
+        <file>sounds/10.wav</file>
+        <file>sounds/11.wav</file>
+        <file>sounds/12.wav</file>
+        <file>sounds/13.wav</file>
+        <file>sounds/14.wav</file>
+        <file>sounds/15.wav</file>
+        <file>sounds/16.wav</file>
+        <file>sounds/17.wav</file>
+        <file>sounds/18.wav</file>
+        <file>sounds/19.wav</file>
+        <file>sounds/20.wav</file>
+        <file>sounds/Внимание.wav</file>
+        <file>sounds/Выше допустимой.wav</file>
+        <file>sounds/Ниже допустимой1.wav</file>
+    </qresource>
+</RCC>

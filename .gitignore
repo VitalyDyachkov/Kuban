@@ -1,0 +1,4 @@
+*.txt
+/.hg
+!log.txt
+!table_humidity.txt
