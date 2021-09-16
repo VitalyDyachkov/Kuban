@@ -9,6 +9,7 @@
 #include <QMessageBox>
 class mSerialPort : public QObject
 {
+  //comment
     Q_OBJECT
 public:
     explicit mSerialPort(QObject *parent = nullptr);
